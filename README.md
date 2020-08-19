@@ -1,5 +1,4 @@
 # Hot-chocolate
-Attention attention everybody
 
 ## Editing the file
 
